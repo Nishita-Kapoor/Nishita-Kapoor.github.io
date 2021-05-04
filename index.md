@@ -5,15 +5,15 @@
 ### Category Name 1 
 
 [Pneumonia Detection](https://github.com/Nishita-Kapoor/pneumonia_detection_xrays)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/confusion_matrices.png?raw=true"/>
 
 ---
 [Skin Cancer](https://github.com/Nishita-Kapoor/skin_cancer)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Confusion_matrices.png?raw=true"/>
 
 ---
 [Brain MRI Segmentation](https://github.com/Nishita-Kapoor/brain_mri_segmentation)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/prediction.png?raw=true"/>
 
 ---
 
