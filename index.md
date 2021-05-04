@@ -2,9 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Deep learning projects 
 
 [Pneumonia Detection](https://github.com/Nishita-Kapoor/pneumonia_detection_xrays)
+test text test text
 <img src="images/confusion_matrices.png?raw=true"/>
 
 ---
