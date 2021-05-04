@@ -4,15 +4,15 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Pneumonia Detection](https://github.com/Nishita-Kapoor/pneumonia_detection_xrays)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Skin Cancer](https://github.com/Nishita-Kapoor/skin_cancer)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Brain MRI Segmentation](https://github.com/Nishita-Kapoor/brain_mri_segmentation)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
