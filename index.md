@@ -10,14 +10,14 @@
 <img src="images/confusion_matrices.png?raw=true"/>
 
 ---
-[**Skin Cancer Lesion Classification**](https://github.com/Nishita-Kapoor/skin_cancer)
+[Skin Cancer Lesion Classification](https://github.com/Nishita-Kapoor/skin_cancer)
 <br>
 <img src="images/learning_rates.png?raw=true"/>
 <br>
 <img src="images/Confusion_matrices.png?raw=true"/>
 
 ---
-[**Brain MRI Segmentation**](https://github.com/Nishita-Kapoor/brain_mri_segmentation)
+[Brain MRI Segmentation](https://github.com/Nishita-Kapoor/brain_mri_segmentation)
 <br>
 <img src="images/prediction.png?raw=true"/>
 <br>
@@ -25,7 +25,7 @@
 
 ---
 
-- [**Heart Disease Classification**](https://github.com/Nishita-Kapoor/heart_disease_classification)
+- [Heart Disease Classification](https://github.com/Nishita-Kapoor/heart_disease_classification)
 
 ---
 
