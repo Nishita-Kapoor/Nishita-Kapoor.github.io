@@ -4,9 +4,8 @@
 
 ### Data Science | Machine Learning
 
-[**Pneumonia Detection from Chest X-Ray**](https://github.com/Nishita-Kapoor/pneumonia_detection_xrays)
+[Pneumonia Detection from Chest X-Ray](https://github.com/Nishita-Kapoor/pneumonia_detection_xrays)
 <br>
-test text
 <img src="images/vgg16.png?raw=true"/>
 <img src="images/confusion_matrices.png?raw=true"/>
 
