@@ -20,9 +20,9 @@ test text
 ---
 [Brain MRI Segmentation](https://github.com/Nishita-Kapoor/brain_mri_segmentation)
 <br>
-<img src="images/predictions.gif?raw=true"/>
-<br>
 <img src="images/prediction.png?raw=true"/>
+<br>
+<img src="images/predictions.gif?raw=true"/>
 
 ---
 
