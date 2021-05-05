@@ -6,7 +6,7 @@
 
 
 [Brain MRI Segmentation](https://github.com/Nishita-Kapoor/brain_mri_segmentation)
-<br>
+<br><br>
 <img src="images/prediction.png?raw=true"/>
 <br>
 <img src="images/predictions.gif?raw=true"/>
@@ -14,7 +14,7 @@
 ---
 
 [Pneumonia Detection from Chest X-Ray](https://github.com/Nishita-Kapoor/pneumonia_detection_xrays)
-<br>
+<br><br>
 <img src="images/vgg16.png?raw=true"/>
 <br>
 <img src="images/confusion_matrices.png?raw=true"/>
@@ -22,7 +22,7 @@
 ---
 
 [Skin Cancer Lesion Classification](https://github.com/Nishita-Kapoor/skin_cancer)
-<br>
+<br><br>
 <img src="images/learning_rates.png?raw=true"/>
 <br>
 <img src="images/Confusion_matrices.png?raw=true"/>
