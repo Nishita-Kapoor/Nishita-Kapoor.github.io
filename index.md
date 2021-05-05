@@ -16,6 +16,7 @@
 [Pneumonia Detection from Chest X-Ray](https://github.com/Nishita-Kapoor/pneumonia_detection_xrays)
 <br>
 <img src="images/vgg16.png?raw=true"/>
+<br>
 <img src="images/confusion_matrices.png?raw=true"/>
 
 ---
@@ -31,7 +32,6 @@
 
 - [Heart Disease Classification](https://github.com/Nishita-Kapoor/heart_disease_classification)
 
----
 
 
 
