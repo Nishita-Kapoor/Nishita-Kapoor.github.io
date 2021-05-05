@@ -6,6 +6,7 @@
 
 
 [Brain MRI Segmentation](https://github.com/Nishita-Kapoor/brain_mri_segmentation)
+
 <br><br>
 <img src="images/prediction.png?raw=true"/>
 <br>
@@ -14,7 +15,8 @@
 ---
 
 [Pneumonia Detection from Chest X-Ray](https://github.com/Nishita-Kapoor/pneumonia_detection_xrays)
-<br><br>
+
+<br>
 <img src="images/vgg16.png?raw=true"/>
 <br>
 <img src="images/confusion_matrices.png?raw=true"/>
